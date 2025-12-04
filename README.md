@@ -7,8 +7,10 @@ link para visualizar a execução no colab: https://colab.research.google.com/dr
 
 ## 🖼️ Imagem Original
 
-![original](.content/original.png)
+<img src="content/original.png" alt="resultado final" width="600"/>
+
 
 ## 🖼️ Resultado Final
 
-![final](.content/resultado_final.png)
+<img src="content/resultado_final.png" alt="resultado final" width="600"/>
+
